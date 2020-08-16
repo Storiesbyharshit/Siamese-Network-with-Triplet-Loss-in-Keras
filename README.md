@@ -27,3 +27,10 @@ All the three images of an example pass through the model, and we get the three 
 The three instances of the `EmbeddingModel` shown above are not different instances. It's the same, shared model instance - i.e. the parameters are shared, and are updated for all the three paths simultaneously.
 
 
+### MNIST Triplet
+![Triplet](assets/Fig #2.jpg)
+
+
+## Learnt Embeddings
+![EmbeddingsFinal](assets/Fig #3.jpg)
+
