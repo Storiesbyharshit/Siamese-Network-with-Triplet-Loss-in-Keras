@@ -28,9 +28,9 @@ The three instances of the `EmbeddingModel` shown above are not different instan
 
 
 ### MNIST Triplet
-![Triplet](assets/Fig #2.jpg)
+![Triplet](assets/Fig #2.JPG)
 
 
 ## Learnt Embeddings
-![EmbeddingsFinal](assets/Fig #3.jpg)
+![EmbeddingsFinal](assets/Fig #3.JPG)
 
