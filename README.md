@@ -28,9 +28,9 @@ The three instances of the `EmbeddingModel` shown above are not different instan
 
 
 ### MNIST Triplet
-![Triplet](assets/Fig #2.JPG)
+![Triplet](https://github.com/Storiesbyharshit/Siamese-Network-with-Triplet-Loss-in-Keras/blob/master/assets/Fig%20%232.JPG)
 
 
 ## Learnt Embeddings
-![EmbeddingsFinal](assets/Fig #3.JPG)
+![EmbeddingsFinal](https://github.com/Storiesbyharshit/Siamese-Network-with-Triplet-Loss-in-Keras/blob/master/assets/Fig%20%233.JPG)
 
